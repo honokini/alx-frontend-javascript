@@ -1,5 +1,5 @@
-// Import the Building class from ./6-sky_high.js
-import Building from './6-sky_high.js';
+// Import the Building class from 5-building.js
+import Building from './5-building';
 
 // Define the SkyHighBuilding class that extends Building
 class SkyHighBuilding extends Building {
